@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">LifeClock</string>
+
+    <string name="days"> days</string>
+
+    <string name="youhavelived">You have lived for</string>
+
+    <string name="stayawesome">Stay awesome!</string>
+
+</resources>
